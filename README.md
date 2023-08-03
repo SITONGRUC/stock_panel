@@ -12,4 +12,6 @@ https://sitongruc.github.io/assets/files/stock_panel.html
 P.S.stock_panel_code file is the final version codo fir this project. \
 another files are just draft.\
 
+Sample for network web crawler
+
 
